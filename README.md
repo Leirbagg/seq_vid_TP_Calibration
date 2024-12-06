@@ -1,6 +1,6 @@
 # Rendu TP séquence vidéo : calibration camera
 
-### Source : 
+### Sources : 
 
 https://opencv24-python-tutorials.readthedocs.io/en/stable/py_tutorials/py_calib3d/py_calibration/py_calibration.html
 
